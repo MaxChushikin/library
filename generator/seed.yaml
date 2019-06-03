@@ -1,0 +1,690 @@
+--- !ruby/object:Library
+authors:
+- &2 !ruby/object:Author
+  name: Palmer Kihn
+  bio: Biography
+- &3 !ruby/object:Author
+  name: Sherilyn Halvorson
+  bio: Biography
+- &4 !ruby/object:Author
+  name: Luci Langosh
+  bio: Biography
+- &1 !ruby/object:Author
+  name: Thanh Denesik
+  bio: Biography
+- &5 !ruby/object:Author
+  name: Davina Jakubowski
+  bio: Biography
+books:
+- &23 !ruby/object:Book
+  title: Action Wolves
+  author: *1
+- &52 !ruby/object:Book
+  title: Death Pickpocket
+  author: *2
+- &26 !ruby/object:Book
+  title: Planet of the American Dreams
+  author: *3
+- &44 !ruby/object:Book
+  title: Return of the Electric Clash
+  author: *4
+- &11 !ruby/object:Book
+  title: Action Hills
+  author: *5
+- &28 !ruby/object:Book
+  title: The Blonde Beast
+  author: *5
+- &55 !ruby/object:Book
+  title: I Married a American Blow
+  author: *1
+- &8 !ruby/object:Book
+  title: Fake Cat
+  author: *5
+- &19 !ruby/object:Book
+  title: Forbidden Wolf
+  author: *2
+- &40 !ruby/object:Book
+  title: Time of the Danger Clash
+  author: *1
+- &47 !ruby/object:Book
+  title: Killer Woman
+  author: *3
+- &56 !ruby/object:Book
+  title: Danger Monster
+  author: *5
+- &49 !ruby/object:Book
+  title: Killer Hills
+  author: *5
+- &60 !ruby/object:Book
+  title: Dangerous Ninja
+  author: *5
+- &45 !ruby/object:Book
+  title: Red Blow
+  author: *5
+- &64 !ruby/object:Book
+  title: Hungry Jungle
+  author: *2
+- &6 !ruby/object:Book
+  title: Season of the Blue Wolves
+  author: *2
+- &59 !ruby/object:Book
+  title: A Fistful of Electric Fly
+  author: *5
+- &13 !ruby/object:Book
+  title: Day of the Champagne Clash
+  author: *1
+- &37 !ruby/object:Book
+  title: Journey of the Hungry Monster
+  author: *5
+- &54 !ruby/object:Book
+  title: Legend of Green Brains
+  author: *1
+- &21 !ruby/object:Book
+  title: Day of the Electric Fly
+  author: *5
+- &35 !ruby/object:Book
+  title: Time of the Danger Rain
+  author: *3
+- &50 !ruby/object:Book
+  title: Flying Wolf
+  author: *2
+- &57 !ruby/object:Book
+  title: Day of the Electric Diaries
+  author: *1
+- &10 !ruby/object:Book
+  title: Blonde Dreams
+  author: *4
+- &30 !ruby/object:Book
+  title: Red Blow
+  author: *4
+- &17 !ruby/object:Book
+  title: Champagne Monster
+  author: *3
+- &15 !ruby/object:Book
+  title: Green Witch
+  author: *3
+- &58 !ruby/object:Book
+  title: Case of the Missing Forbidden Man
+  author: *4
+readers:
+- &33 !ruby/object:Reader
+  name: Irish Cartwright
+  email: rosana_fay@mueller.us
+  city: New Shaquita
+  street: Leta Dale
+  house: 53
+- &25 !ruby/object:Reader
+  name: Luna Collier
+  email: ariel@mcdermott.com
+  city: East Noeliahaven
+  street: Ullrich Harbors
+  house: 41
+- &31 !ruby/object:Reader
+  name: Regina Hyatt
+  email: remedios@sawayn.com
+  city: Binsfort
+  street: Beatris Shoal
+  house: 30
+- &63 !ruby/object:Reader
+  name: Linnie Kris
+  email: lee_rice@jast.com
+  city: West Corneliachester
+  street: Lanette Villages
+  house: 13
+- &9 !ruby/object:Reader
+  name: Huong Kovacek
+  email: lindsay_hackett@cummings.biz
+  city: Baumbachland
+  street: Lindgren Ways
+  house: 92
+- &46 !ruby/object:Reader
+  name: Sirena Champlin
+  email: carina_will@bogisich.ca
+  city: Melonybury
+  street: Palma Dam
+  house: 55
+- &34 !ruby/object:Reader
+  name: Seymour Senger
+  email: shaquita.bins@toy.biz
+  city: Yundtbury
+  street: Reynolds Pines
+  house: 54
+- &22 !ruby/object:Reader
+  name: Henry Zieme
+  email: sandee_bogan@wehner.ca
+  city: Joeystad
+  street: Sol Center
+  house: 8
+- &43 !ruby/object:Reader
+  name: Deon Dicki
+  email: chris.mueller@blick.ca
+  city: Kunzestad
+  street: Thompson Lake
+  house: 66
+- &51 !ruby/object:Reader
+  name: Halley Wintheiser
+  email: natalie@wilkinson.ca
+  city: Schulistmouth
+  street: Kling Corners
+  house: 95
+- &38 !ruby/object:Reader
+  name: Reanna Block
+  email: bernie@grimes.info
+  city: Schadenberg
+  street: Cammie Villages
+  house: 47
+- &53 !ruby/object:Reader
+  name: Georgiann Grant
+  email: carmelita_satterfield@vondaniel.info
+  city: Crooksshire
+  street: Brenton Lock
+  house: 85
+- &42 !ruby/object:Reader
+  name: James Waelchi
+  email: anna@greenholt.us
+  city: Rudolphton
+  street: Eugenio Way
+  house: 29
+- &61 !ruby/object:Reader
+  name: Daphne Russel
+  email: jacquie.kozey@fayhermiston.com
+  city: Lake Otelia
+  street: Hilpert Brooks
+  house: 29
+- &36 !ruby/object:Reader
+  name: Norine Fahey
+  email: kathryne_jenkins@brekkehyatt.us
+  city: Trulaport
+  street: Beatty Haven
+  house: 14
+- &39 !ruby/object:Reader
+  name: Benedict Schumm
+  email: carter@koss.biz
+  city: Port Kraig
+  street: Brittaney Summit
+  house: 17
+- &62 !ruby/object:Reader
+  name: Phillis Runte
+  email: phoebe.herzog@rutherfordjakubowski.ca
+  city: New Grady
+  street: Hilaria Pine
+  house: 13
+- !ruby/object:Reader
+  name: Felisa Raynor
+  email: erin@predovicwhite.ca
+  city: Hilllport
+  street: Friesen Wells
+  house: 17
+- &24 !ruby/object:Reader
+  name: Perry Denesik
+  email: etta@crooks.name
+  city: Swiftbury
+  street: Lena Route
+  house: 6
+- &27 !ruby/object:Reader
+  name: Dorothea Hintz
+  email: brandi.roberts@keeblerhills.name
+  city: Lake Delena
+  street: Hackett Brooks
+  house: 89
+- &7 !ruby/object:Reader
+  name: Erin Hoppe
+  email: eugene@gusikowski.ca
+  city: Lake Morrisstad
+  street: Hailey Meadow
+  house: 12
+- &18 !ruby/object:Reader
+  name: Sanda Kutch
+  email: buster@gutkowskischumm.biz
+  city: Port Ritashire
+  street: Donnelly Corners
+  house: 14
+- &16 !ruby/object:Reader
+  name: Felipe Anderson
+  email: suanne.sauer@gislason.biz
+  city: East Matha
+  street: Treutel Valleys
+  house: 3
+- &20 !ruby/object:Reader
+  name: Tyler Gutmann
+  email: jacqui.rutherford@emard.biz
+  city: East Shanaborough
+  street: Koss Shores
+  house: 28
+- &48 !ruby/object:Reader
+  name: Tracie Ledner
+  email: betty@schultz.com
+  city: Sauerfort
+  street: Jast Shoals
+  house: 39
+- &29 !ruby/object:Reader
+  name: Vickey Rodriguez
+  email: joette@boyer.biz
+  city: West Deadra
+  street: Velva Ports
+  house: 98
+- &12 !ruby/object:Reader
+  name: Eugena Dickinson
+  email: troy.lowe@bogisichkoelpin.co.uk
+  city: Francesfort
+  street: Rosanne Shoals
+  house: 60
+- &41 !ruby/object:Reader
+  name: Lara Mayer
+  email: isaias@quigley.info
+  city: O'Keefefort
+  street: Welch Overpass
+  house: 24
+- &32 !ruby/object:Reader
+  name: Nakesha Bode
+  email: chang@goyetteokuneva.name
+  city: Blickfurt
+  street: Sanford Mount
+  house: 96
+- &14 !ruby/object:Reader
+  name: Miesha Raynor
+  email: lani.daniel@grahamcollier.com
+  city: Windlerview
+  street: Kuhic Glens
+  house: 71
+orders:
+- !ruby/object:Order
+  book: *6
+  reader: *7
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *8
+  reader: *9
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *10
+  reader: *9
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *11
+  reader: *12
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *13
+  reader: *14
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *15
+  reader: *16
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *17
+  reader: *18
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *19
+  reader: *20
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *21
+  reader: *22
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *23
+  reader: *24
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *19
+  reader: *25
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *26
+  reader: *27
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *28
+  reader: *29
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *30
+  reader: *31
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *8
+  reader: *32
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *28
+  reader: *33
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *8
+  reader: *34
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *19
+  reader: *22
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *35
+  reader: *36
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *37
+  reader: *38
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *15
+  reader: *39
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *40
+  reader: *41
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *6
+  reader: *42
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *6
+  reader: *43
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *44
+  reader: *36
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *45
+  reader: *42
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *17
+  reader: *46
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *26
+  reader: *24
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *47
+  reader: *48
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *49
+  reader: *9
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *50
+  reader: *7
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *23
+  reader: *51
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *49
+  reader: *24
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *10
+  reader: *42
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *28
+  reader: *33
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *21
+  reader: *22
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *49
+  reader: *24
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *52
+  reader: *16
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *17
+  reader: *53
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *15
+  reader: *34
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *54
+  reader: *38
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *35
+  reader: *31
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *13
+  reader: *36
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *45
+  reader: *31
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *55
+  reader: *24
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *21
+  reader: *41
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *6
+  reader: *41
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *56
+  reader: *51
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *6
+  reader: *25
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *50
+  reader: *42
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *15
+  reader: *12
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *57
+  reader: *22
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *55
+  reader: *20
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *58
+  reader: *25
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *11
+  reader: *53
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *45
+  reader: *22
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *26
+  reader: *7
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *19
+  reader: *39
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *11
+  reader: *25
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *47
+  reader: *48
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *56
+  reader: *38
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *17
+  reader: *18
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *59
+  reader: *12
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *60
+  reader: *18
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *54
+  reader: *18
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *60
+  reader: *36
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *56
+  reader: *29
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *45
+  reader: *25
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *57
+  reader: *16
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *37
+  reader: *32
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *59
+  reader: *32
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *49
+  reader: *53
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *10
+  reader: *14
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *40
+  reader: *14
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *56
+  reader: *16
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *37
+  reader: *14
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *21
+  reader: *16
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *13
+  reader: *20
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *45
+  reader: *43
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *10
+  reader: *61
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *30
+  reader: *36
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *21
+  reader: *38
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *40
+  reader: *34
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *10
+  reader: *62
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *23
+  reader: *16
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *15
+  reader: *42
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *45
+  reader: *61
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *58
+  reader: *63
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *17
+  reader: *9
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *56
+  reader: *38
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *17
+  reader: *9
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *47
+  reader: *14
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *60
+  reader: *38
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *28
+  reader: *48
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *56
+  reader: *22
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *35
+  reader: *29
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *64
+  reader: *25
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *44
+  reader: *24
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *59
+  reader: *9
+  date: 2019-06-03
+- !ruby/object:Order
+  book: *23
+  reader: *20
+  date: 2019-06-03
